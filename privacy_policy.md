@@ -31,4 +31,5 @@ The App uses **OSMdroid** and **OpenStreetMap** to display maps.
 Since we do not collect any data, there is no risk of your personal information being leaked from our servers. Your photos and location data remain under your physical control on your Android device.
 
 ## 6. Contact
-If you have any questions about this Privacy Policy, you can contact the developer via the GitHub repository where this app is hosted.
+If you have any questions about this Privacy Policy, you can contact us through
+support@curuvi.com
